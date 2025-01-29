@@ -1,6 +1,6 @@
 # 👨‍💻 AI Enthusiast & Developer  
 
-Welcome to my GitHub! 🚀 I'm a passionate developer with a deep love for **Artificial Intelligence** 🤖. Whether it's **Machine Learning, Deep Learning, NLP, Computer Vision, or AI-powered applications**, I'm always exploring, experimenting, and building innovative projects!  
+Welcome to my GitHub! I'm a passionate developer with a deep love for **Artificial Intelligence**. Whether it's **Machine Learning, Deep Learning, NLP, Computer Vision, or AI-powered applications**, I'm always exploring, experimenting, and building innovative projects!  
 
 ## 🚀 What I Do  
 🔹 **Develop AI-Powered Applications** – Implementing AI models into real-world solutions  
@@ -29,18 +29,18 @@ Welcome to my GitHub! 🚀 I'm a passionate developer with a deep love for **Art
 
 ## 🌟 Featured Projects  
 
-### 🗣️ **1. ChatMind: AI Conversational Assistant**  
+###  **1. ChatMind: AI Conversational Assistant**  
 **Tech Stack:** OpenAI GPT-4, LangChain, FastAPI, React  
 **Description:**  
 ChatMind is an **AI-powered virtual assistant** that can hold intelligent, human-like conversations. It supports multiple functionalities like:  
-✅ Context-aware responses
-✅ Summarization and text generation
-✅ Custom fine-tuned models for specialized domains (e.g., healthcare, finance)  
-✅ Voice-to-text and text-to-speech integration
+✅ Context-aware responses  
+✅ Summarization and text generation  
+✅ Custom fine-tuned models for specialized domains (e.g., healthcare, finance)    
+✅ Voice-to-text and text-to-speech integration  
 
 ---
 
-### 🏥 **2. MedVision: AI for Medical Image Analysis**  
+### **2. MedVision: AI for Medical Image Analysis**  
 **Tech Stack:** PyTorch, OpenCV, YOLOv8, Flask  
 **Description:**  
 MedVision is a **deep learning model** designed to analyze medical images (X-rays, MRIs, CT scans) and detect potential diseases with **high accuracy**. Features include:  
@@ -50,17 +50,17 @@ MedVision is a **deep learning model** designed to analyze medical images (X-ray
 
 ---
 
-### 📖 **3. BookWise: AI-Powered Book Recommendation System**  
+### **3. BookWise: AI-Powered Book Recommendation System**  
 **Tech Stack:** TensorFlow, Scikit-learn, FastAPI, PostgreSQL  
 **Description:**  
 BookWise is an **AI-based recommendation engine** that provides **personalized book suggestions** based on user reading habits. It features:  
-✅ Content-based and collaborative filtering 
-✅ Sentiment analysis on book reviews to enhance recommendations
-✅ API for integration into book platforms 
+✅ Content-based and collaborative filtering  
+✅ Sentiment analysis on book reviews to enhance recommendations  
+✅ API for integration into book platforms   
 
 ---
 
-## 🌱 Currently Learning  
+## Currently Learning  
 🔹 **Reinforcement Learning (RL)** – Making AI agents smarter over time  
 🔹 **Generative AI** – Exploring LLMs, Stable Diffusion, and AI-generated content  
 🔹 **AI in Edge Computing**  – Running AI on low-power devices  
