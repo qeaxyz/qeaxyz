@@ -25,18 +25,18 @@ I'm fascinated by the power of AI and its potential to **transform industries, a
 ---
 
 ## 🛠️ My Tech Stack  
-**Programming Languages:**  
-🔹 Python 🐍 | JavaScript 🖥️ | C++ 🚀  
 
-**AI & Machine Learning Frameworks:**  
-🔹 TensorFlow 🔥 | PyTorch 🧠 | Keras 🤖 | Scikit-learn 📊  
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 
-**Data Science & Analytics:**  
-🔹 Pandas 📊 | NumPy 🔢 | Matplotlib 📈 | Seaborn 🎨  
+### **AI & Machine Learning Frameworks**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  | ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)  | ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)  
 
-**Other Technologies:**  
-🔹 OpenAI API 💡 | Hugging Face 🤗 | LangChain 🏗️ | FastAPI ⚡ | Docker 🐳 | AWS ☁️  
+### **Data Science & Analytics**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)  | ![Seaborn](https://img.shields.io/badge/-Seaborn-009688?style=flat-square)  
 
+### **Other Technologies**  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)  | ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?style=flat-square&logo=huggingface&logoColor=black)  | ![LangChain](https://img.shields.io/badge/-LangChain-008C76?style=flat-square)  | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
 ---
 
 ## 🌟 Featured Projects  
